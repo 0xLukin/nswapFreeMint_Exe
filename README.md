@@ -13,7 +13,7 @@ nswap批量工具
 
 --私钥 Gas消耗地址的私钥
 
---Mint合约地址 到https://www.nswap.com/launch以及bsc浏览器上查找你要mint的nft的合约地址
+--Mint合约地址 到 https://www.nswap.com/launch 以及bsc浏览器上查找你要mint的nft的合约地址
 
 --归集nft的地址 所有mint的nft都会归集到这个地址
 
