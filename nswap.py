@@ -5,13 +5,12 @@ import requests
 from web3 import Web3
 from eth_account import  Account
 
-# bsc_url = "https://bsc.getblock.io/mainnet/?api_key=259ca811-276f-4f8e-937d-e0e8a65d4d22"
+
 #bsc_url = "https://bsc-dataseed1.defibit.io/"
 bsc_url = "https://rpc.ankr.com/bsc"
 # BscTest_url = "https://data-seed-prebsc-1-s1.binance.org:8545/"
 BscTest_url = 'https://data-seed-prebsc-1-s1.binance.org:8545/'
-request_url = 'https://ad.magdao.tech'
-# request_url = 'https://wgsj.moguldesign.shop'
+
 
 web3 = Web3(Web3.HTTPProvider(bsc_url))  # 建立连接
 
